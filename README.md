@@ -1,4 +1,7 @@
 # fetch_takehome_jan2024
+Brianna Lytle
+January 2024
+Senior Data Analyst
 
 Resources:
 - Fetch Interview Instructions.pdf - Provided instructions for this take home task
